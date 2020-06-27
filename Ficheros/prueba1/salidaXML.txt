@@ -1,0 +1,1386 @@
+<sentence id="1">
+  <token id="t1.1" begin="0" end="13" form="PONENTES_Cada" lemma="ponentes_cada" tag="NP00000" ctag="NP" pos="noun" type="proper" >
+  </token>
+  <token id="t1.2" begin="14" end="21" form="ponente" lemma="ponente" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t1.3" begin="22" end="27" form="envia" lemma="envia" tag="AQ0FS00" ctag="AQ" pos="adjective" type="qualificative" gen="feminine" num="singular" >
+  </token>
+  <token id="t1.4" begin="28" end="30" form="un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t1.5" begin="31" end="36" form="unico" lemma="unico" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t1.6" begin="37" end="45" form="articulo" lemma="articular" tag="VMIP1S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="1" num="singular" >
+  </token>
+  <token id="t1.7" begin="46" end="50" form="para" lemma="para" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t1.8" begin="51" end="56" form="poder" lemma="poder" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t1.9" begin="57" end="67" form="participar" lemma="participar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t1.10" begin="68" end="70" form="en" lemma="en" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t1.11" begin="71" end="73" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t1.12" begin="74" end="82" form="congreso" lemma="congreso" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t1.13" begin="82" end="83" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t1.14" begin="84" end="86" form="si" lemma="si" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t1.15" begin="87" end="97" form="finalmente" lemma="finalmente" tag="RG" ctag="RG" pos="adverb" type="general" >
+  </token>
+  <token id="t1.16" begin="98" end="100" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t1.17" begin="101" end="109" form="articulo" lemma="articular" tag="VMIP1S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="1" num="singular" >
+  </token>
+  <token id="t1.18" begin="110" end="112" form="es" lemma="ser" tag="VSIP3S0" ctag="VSI" pos="verb" type="semiauxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t1.19" begin="113" end="121" form="aceptado" lemma="aceptar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t1.20" begin="121" end="122" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="2">
+  <token id="t2.1" begin="123" end="125" form="En" lemma="en" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t2.2" begin="126" end="128" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t2.3" begin="129" end="138" form="seleccion" lemma="seleccion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t2.4" begin="139" end="141" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t2.5" begin="142" end="151" form="articulos" lemma="articulos" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t2.6" begin="152" end="154" form="un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t2.7" begin="155" end="163" form="profesor" lemma="profesor" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t2.8" begin="164" end="169" form="puede" lemma="poder" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t2.9" begin="170" end="180" form="participar" lemma="participar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t2.10" begin="181" end="183" form="en" lemma="en" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t2.11" begin="184" end="186" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t2.12" begin="187" end="197" form="evaluacion" lemma="evaluacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t2.13" begin="198" end="200" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t2.14" begin="201" end="207" form="varios" lemma="varios" tag="DI0MP0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="plural" >
+  </token>
+  <token id="t2.15" begin="208" end="217" form="articulos" lemma="articulos" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t2.16" begin="217" end="218" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t2.17" begin="219" end="220" form="y" lemma="y" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t2.18" begin="221" end="225" form="cada" lemma="cada" tag="DI0CS0" ctag="DI" pos="determiner" type="indefinite" gen="common" num="singular" >
+  </token>
+  <token id="t2.19" begin="226" end="234" form="articulo" lemma="articular" tag="VMIP1S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="1" num="singular" >
+  </token>
+  <token id="t2.20" begin="235" end="239" form="debe" lemma="deber" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t2.21" begin="240" end="243" form="ser" lemma="ser" tag="VSN0000" ctag="VSN" pos="verb" type="semiauxiliary" mood="infinitive" >
+  </token>
+  <token id="t2.22" begin="244" end="252" form="evaluado" lemma="evaluar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t2.23" begin="253" end="256" form="por" lemma="por" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t2.24" begin="257" end="261" form="tres" lemma="3" tag="Z" ctag="Z" pos="number" >
+  </token>
+  <token id="t2.25" begin="262" end="272" form="profesores" lemma="profesor" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t2.26" begin="272" end="273" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="3">
+  <token id="t3.1" begin="274" end="280" form="Cuando" lemma="cuando" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t3.2" begin="281" end="283" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t3.3" begin="284" end="286" form="ha" lemma="haber" tag="VAIP3S0" ctag="VAI" pos="verb" type="auxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t3.4" begin="287" end="296" form="realizado" lemma="realizar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t3.5" begin="297" end="299" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t3.6" begin="300" end="309" form="seleccion" lemma="seleccion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t3.7" begin="310" end="312" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t3.8" begin="313" end="316" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t3.9" begin="317" end="326" form="articulos" lemma="articulos" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t3.10" begin="326" end="327" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t3.11" begin="328" end="329" form="y" lemma="y" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t3.12" begin="330" end="333" form="por" lemma="por" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t3.13" begin="334" end="339" form="tanto" lemma="tanto" tag="RG" ctag="RG" pos="adverb" type="general" >
+  </token>
+  <token id="t3.14" begin="340" end="342" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t3.15" begin="343" end="346" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t3.16" begin="347" end="355" form="ponentes" lemma="ponente" tag="NCCP000" ctag="NC" pos="noun" type="common" gen="common" num="plural" >
+  </token>
+  <token id="t3.17" begin="356" end="359" form="que" lemma="que" tag="PR0CN00" ctag="PR" pos="pronoun" type="relative" gen="common" num="invariable" >
+  </token>
+  <token id="t3.18" begin="360" end="372" form="participaran" lemma="participar" tag="VMSI3P0" ctag="VMS" pos="verb" type="main" mood="subjunctive" tense="imperfect" person="3" num="plural" >
+  </token>
+  <token id="t3.19" begin="372" end="373" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t3.20" begin="374" end="376" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t3.21" begin="377" end="386" form="establece" lemma="establecer" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t3.22" begin="387" end="389" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t3.23" begin="390" end="395" form="fecha" lemma="fecha" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t3.24" begin="396" end="397" form="y" lemma="y" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t3.25" begin="398" end="402" form="hora" lemma="hora" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t3.26" begin="403" end="405" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t3.27" begin="406" end="410" form="cada" lemma="cada" tag="DI0CS0" ctag="DI" pos="determiner" type="indefinite" gen="common" num="singular" >
+  </token>
+  <token id="t3.28" begin="411" end="419" form="ponencia" lemma="ponencia" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t3.29" begin="419" end="420" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t3.30" begin="421" end="424" form="asi" lemma="asi" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t3.31" begin="425" end="429" form="como" lemma="como" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t3.32" begin="430" end="432" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t3.33" begin="433" end="438" form="lugar" lemma="lugar" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t3.34" begin="439" end="444" form="donde" lemma="donde" tag="PR00000" ctag="PR" pos="pronoun" type="relative" >
+  </token>
+  <token id="t3.35" begin="445" end="447" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t3.36" begin="448" end="457" form="celebrara" lemma="celebrar" tag="VMSI3S0" ctag="VMS" pos="verb" type="main" mood="subjunctive" tense="imperfect" person="3" num="singular" >
+  </token>
+  <token id="t3.37" begin="458" end="460" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t3.38" begin="461" end="469" form="congreso" lemma="congreso" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t3.39" begin="469" end="470" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="4">
+  <token id="t4.1" begin="471" end="475" form="Para" lemma="para" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t4.2" begin="476" end="481" form="poder" lemma="poder" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t4.3" begin="482" end="492" form="establecer" lemma="establecer" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t4.4" begin="493" end="495" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t4.5" begin="496" end="501" form="lugar" lemma="lugar" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t4.6" begin="502" end="504" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t4.7" begin="505" end="507" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t4.8" begin="508" end="519" form="celebracion" lemma="celebracion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t4.9" begin="520" end="522" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t4.10" begin="523" end="526" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t4.11" begin="527" end="536" form="congresos" lemma="congreso" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t4.12" begin="536" end="537" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t4.13" begin="538" end="540" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t4.14" begin="541" end="548" form="dispone" lemma="disponer" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t4.15" begin="549" end="551" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t4.16" begin="552" end="554" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t4.17" begin="555" end="566" form="informacion" lemma="informacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t4.18" begin="567" end="569" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t4.19" begin="570" end="573" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t4.20" begin="574" end="581" form="salones" lemma="salón" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t4.21" begin="582" end="584" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t4.22" begin="585" end="590" form="actos" lemma="acto" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t4.23" begin="591" end="593" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t4.24" begin="594" end="597" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t4.25" begin="598" end="607" form="edificios" lemma="edificio" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t4.26" begin="607" end="608" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t4.27" begin="609" end="623" form="pertenecientes" lemma="perteneciente" tag="AQ0CP00" ctag="AQ" pos="adjective" type="qualificative" gen="common" num="plural" >
+  </token>
+  <token id="t4.28" begin="624" end="625" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t4.29" begin="626" end="628" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t4.30" begin="629" end="662" form="Universidad_de_Castilla_La_Mancha" lemma="universidad_de_castilla_la_mancha" tag="NP00000" ctag="NP" pos="noun" type="proper" >
+  </token>
+  <token id="t4.31" begin="662" end="663" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t4.32" begin="664" end="666" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t4.33" begin="667" end="671" form="cual" lemma="cual" tag="PR0CS00" ctag="PR" pos="pronoun" type="relative" gen="common" num="singular" >
+  </token>
+  <token id="t4.34" begin="672" end="674" form="ha" lemma="haber" tag="VAIP3S0" ctag="VAI" pos="verb" type="auxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t4.35" begin="675" end="688" form="proporcionado" lemma="proporcionar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t4.36" begin="689" end="694" form="dicha" lemma="decir" tag="VMP00SF" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="feminine" >
+  </token>
+  <token id="t4.37" begin="695" end="706" form="informacion" lemma="informacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t4.38" begin="706" end="707" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="5">
+  <token id="t5.1" begin="708" end="710" form="Se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t5.2" begin="711" end="720" form="considera" lemma="considerar" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t5.3" begin="720" end="721" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t5.4" begin="722" end="725" form="que" lemma="que" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t5.5" begin="726" end="728" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t5.6" begin="729" end="740" form="informacion" lemma="informacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t5.7" begin="741" end="744" form="que" lemma="que" tag="PR0CN00" ctag="PR" pos="pronoun" type="relative" gen="common" num="invariable" >
+  </token>
+  <token id="t5.8" begin="745" end="747" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t5.9" begin="748" end="752" form="UCLM" lemma="uclm" tag="NP00000" ctag="NP" pos="noun" type="proper" >
+  </token>
+  <token id="t5.10" begin="753" end="755" form="da" lemma="dar" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t5.11" begin="756" end="758" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t5.12" begin="759" end="762" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t5.13" begin="763" end="770" form="salones" lemma="salón" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t5.14" begin="771" end="773" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t5.15" begin="774" end="779" form="actos" lemma="acto" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t5.16" begin="779" end="780" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t5.17" begin="781" end="783" form="es" lemma="ser" tag="VSIP3S0" ctag="VSI" pos="verb" type="semiauxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t5.18" begin="784" end="786" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t5.19" begin="787" end="795" form="aquellos" lemma="aquel" tag="PD0MP00" ctag="PD" pos="pronoun" type="demonstrative" gen="masculine" num="plural" >
+  </token>
+  <token id="t5.20" begin="796" end="799" form="que" lemma="que" tag="PR0CN00" ctag="PR" pos="pronoun" type="relative" gen="common" num="invariable" >
+  </token>
+  <token id="t5.21" begin="800" end="806" form="pueden" lemma="poder" tag="VMIP3P0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t5.22" begin="807" end="810" form="ser" lemma="ser" tag="VSN0000" ctag="VSN" pos="verb" type="semiauxiliary" mood="infinitive" >
+  </token>
+  <token id="t5.23" begin="811" end="821" form="reservados" lemma="reservar" tag="VMP00PM" ctag="VMP" pos="verb" type="main" mood="participle" num="plural" gen="masculine" >
+  </token>
+  <token id="t5.24" begin="822" end="826" form="para" lemma="para" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t5.25" begin="827" end="829" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t5.26" begin="830" end="841" form="realizacion" lemma="realizacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t5.27" begin="842" end="844" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t5.28" begin="845" end="854" form="congresos" lemma="congreso" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t5.29" begin="854" end="855" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="6">
+  <token id="t6.1" begin="856" end="859" form="Una" lemma="uno" tag="DI0FS0" ctag="DI" pos="determiner" type="indefinite" gen="feminine" num="singular" >
+  </token>
+  <token id="t6.2" begin="860" end="863" form="vez" lemma="vez" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t6.3" begin="864" end="876" form="seleccionado" lemma="seleccionar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t6.4" begin="877" end="879" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t6.5" begin="880" end="885" form="lugar" lemma="lugar" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t6.6" begin="885" end="886" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t6.7" begin="887" end="889" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t6.8" begin="890" end="894" form="debe" lemma="deber" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t6.9" begin="895" end="904" form="comunicar" lemma="comunicar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t6.10" begin="905" end="906" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t6.11" begin="907" end="909" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t6.12" begin="910" end="914" form="UCLM" lemma="uclm" tag="NP00000" ctag="NP" pos="noun" type="proper" >
+  </token>
+  <token id="t6.13" begin="914" end="915" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t6.14" begin="916" end="925" form="junto_con" lemma="junto_con" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t6.15" begin="926" end="928" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t6.16" begin="929" end="934" form="fecha" lemma="fecha" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t6.17" begin="935" end="937" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t6.18" begin="938" end="949" form="celebracion" lemma="celebracion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t6.19" begin="950" end="952" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t6.20" begin="953" end="956" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t6.21" begin="957" end="966" form="congresos" lemma="congreso" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t6.22" begin="966" end="967" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t6.23" begin="968" end="972" form="para" lemma="para" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t6.24" begin="973" end="976" form="que" lemma="que" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t6.25" begin="977" end="984" form="efectue" lemma="efectue" tag="VMSP3S0" ctag="VMS" pos="verb" type="main" mood="subjunctive" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t6.26" begin="985" end="987" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t6.27" begin="988" end="995" form="reserva" lemma="reserva" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t6.28" begin="996" end="1011" form="correspondiente" lemma="correspondiente" tag="AQ0CS00" ctag="AQ" pos="adjective" type="qualificative" gen="common" num="singular" >
+  </token>
+  <token id="t6.29" begin="1011" end="1012" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="7">
+  <token id="t7.1" begin="1013" end="1017" form="Acto" lemma="acto" tag="NP00000" ctag="NP" pos="noun" type="proper" >
+  </token>
+  <token id="t7.2" begin="1018" end="1025" form="seguido" lemma="seguir" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t7.3" begin="1026" end="1029" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t7.4" begin="1030" end="1040" form="profesores" lemma="profesor" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t7.5" begin="1041" end="1043" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t7.6" begin="1044" end="1052" form="encargan" lemma="encargar" tag="VMIP3P0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t7.7" begin="1053" end="1055" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t7.8" begin="1056" end="1064" form="escribir" lemma="escribir" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t7.9" begin="1065" end="1071" form="cartas" lemma="carta" tag="NCFP000" ctag="NC" pos="noun" type="common" gen="feminine" num="plural" >
+  </token>
+  <token id="t7.10" begin="1072" end="1073" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t7.11" begin="1074" end="1079" form="todos" lemma="todo" tag="DI0MP0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="plural" >
+  </token>
+  <token id="t7.12" begin="1080" end="1083" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t7.13" begin="1084" end="1092" form="ponentes" lemma="ponente" tag="NCCP000" ctag="NC" pos="noun" type="common" gen="common" num="plural" >
+  </token>
+  <token id="t7.14" begin="1093" end="1096" form="que" lemma="que" tag="PR0CN00" ctag="PR" pos="pronoun" type="relative" gen="common" num="invariable" >
+  </token>
+  <token id="t7.15" begin="1097" end="1100" form="han" lemma="haber" tag="VAIP3P0" ctag="VAI" pos="verb" type="auxiliary" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t7.16" begin="1101" end="1108" form="enviado" lemma="enviar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t7.17" begin="1109" end="1118" form="articulos" lemma="articulos" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t7.18" begin="1118" end="1119" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="8">
+  <token id="t8.1" begin="1120" end="1123" form="Una" lemma="uno" tag="DI0FS0" ctag="DI" pos="determiner" type="indefinite" gen="feminine" num="singular" >
+  </token>
+  <token id="t8.2" begin="1124" end="1129" form="carta" lemma="carta" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t8.3" begin="1130" end="1135" form="puede" lemma="poder" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t8.4" begin="1136" end="1141" form="estar" lemma="estar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t8.5" begin="1142" end="1151" form="elaborada" lemma="elaborar" tag="VMP00SF" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="feminine" >
+  </token>
+  <token id="t8.6" begin="1152" end="1155" form="por" lemma="por" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t8.7" begin="1156" end="1159" form="uno" lemma="uno" tag="PI0MS00" ctag="PI" pos="pronoun" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t8.8" begin="1160" end="1161" form="o" lemma="o" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t8.9" begin="1162" end="1168" form="varios" lemma="varios" tag="DI0MP0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="plural" >
+  </token>
+  <token id="t8.10" begin="1169" end="1179" form="profesores" lemma="profesor" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t8.11" begin="1179" end="1180" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t8.12" begin="1181" end="1182" form="y" lemma="y" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t8.13" begin="1183" end="1185" form="un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t8.14" begin="1186" end="1194" form="profesor" lemma="profesor" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t8.15" begin="1195" end="1200" form="puede" lemma="poder" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t8.16" begin="1201" end="1211" form="participar" lemma="participar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t8.17" begin="1212" end="1214" form="en" lemma="en" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t8.18" begin="1215" end="1217" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t8.19" begin="1218" end="1229" form="elaboracion" lemma="elaboracion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t8.20" begin="1230" end="1232" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t8.21" begin="1233" end="1239" form="varias" lemma="varios" tag="DI0FP0" ctag="DI" pos="determiner" type="indefinite" gen="feminine" num="plural" >
+  </token>
+  <token id="t8.22" begin="1240" end="1246" form="cartas" lemma="carta" tag="NCFP000" ctag="NC" pos="noun" type="common" gen="feminine" num="plural" >
+  </token>
+  <token id="t8.23" begin="1246" end="1247" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="9">
+  <token id="t9.1" begin="1248" end="1262" form="ASISTENTES_Los" lemma="asistentes_los" tag="NP00000" ctag="NP" pos="noun" type="proper" >
+  </token>
+  <token id="t9.2" begin="1263" end="1271" form="becarios" lemma="becario" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t9.3" begin="1272" end="1275" form="son" lemma="ser" tag="VSIP3P0" ctag="VSI" pos="verb" type="semiauxiliary" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t9.4" begin="1276" end="1279" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t9.5" begin="1280" end="1290" form="encargados" lemma="encargar" tag="VMP00PM" ctag="VMP" pos="verb" type="main" mood="participle" num="plural" gen="masculine" >
+  </token>
+  <token id="t9.6" begin="1291" end="1293" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t9.7" begin="1294" end="1303" form="gestionar" lemma="gestionar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t9.8" begin="1304" end="1306" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t9.9" begin="1307" end="1321" form="preinscripcion" lemma="preinscripcion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t9.10" begin="1322" end="1323" form="y" lemma="y" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t9.11" begin="1324" end="1326" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t9.12" begin="1327" end="1338" form="inscripcion" lemma="inscripcion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t9.13" begin="1339" end="1341" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t9.14" begin="1342" end="1345" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t9.15" begin="1346" end="1356" form="asistentes" lemma="asistente" tag="NCCP000" ctag="NC" pos="noun" type="common" gen="common" num="plural" >
+  </token>
+  <token id="t9.16" begin="1356" end="1357" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t9.17" begin="1358" end="1362" form="cada" lemma="cada" tag="DI0CS0" ctag="DI" pos="determiner" type="indefinite" gen="common" num="singular" >
+  </token>
+  <token id="t9.18" begin="1363" end="1372" form="asistente" lemma="asistente" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t9.19" begin="1373" end="1375" form="es" lemma="ser" tag="VSIP3S0" ctag="VSI" pos="verb" type="semiauxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t9.20" begin="1376" end="1386" form="gestionado" lemma="gestionar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t9.21" begin="1387" end="1390" form="por" lemma="por" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t9.22" begin="1391" end="1393" form="un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t9.23" begin="1394" end="1401" form="becario" lemma="becario" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t9.24" begin="1401" end="1402" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t9.25" begin="1403" end="1405" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t9.26" begin="1406" end="1410" form="cual" lemma="cual" tag="PR0CS00" ctag="PR" pos="pronoun" type="relative" gen="common" num="singular" >
+  </token>
+  <token id="t9.27" begin="1411" end="1412" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t9.28" begin="1413" end="1415" form="su" lemma="su" tag="DP3CSN" ctag="DP" pos="determiner" type="possessive" person="3" gen="common" num="singular" possessornum="invariable" >
+  </token>
+  <token id="t9.29" begin="1416" end="1419" form="vez" lemma="vez" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t9.30" begin="1420" end="1425" form="puede" lemma="poder" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t9.31" begin="1426" end="1435" form="gestionar" lemma="gestionar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t9.32" begin="1436" end="1438" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t9.33" begin="1439" end="1450" form="inscripcion" lemma="inscripcion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t9.34" begin="1451" end="1453" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t9.35" begin="1454" end="1460" form="varios" lemma="varios" tag="DI0MP0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="plural" >
+  </token>
+  <token id="t9.36" begin="1461" end="1471" form="asistentes" lemma="asistente" tag="NCCP000" ctag="NC" pos="noun" type="common" gen="common" num="plural" >
+  </token>
+  <token id="t9.37" begin="1471" end="1472" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="10">
+  <token id="t10.1" begin="1473" end="1479" form="Cuando" lemma="cuando" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t10.2" begin="1480" end="1482" form="un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t10.3" begin="1483" end="1492" form="asistente" lemma="asistente" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t10.4" begin="1493" end="1501" form="solicita" lemma="solicitar" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t10.5" begin="1502" end="1504" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t10.6" begin="1505" end="1516" form="inscripcion" lemma="inscripcion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t10.7" begin="1517" end="1519" form="en" lemma="en" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t10.8" begin="1520" end="1522" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t10.9" begin="1523" end="1531" form="congreso" lemma="congreso" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t10.10" begin="1531" end="1532" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t10.11" begin="1533" end="1535" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t10.12" begin="1536" end="1543" form="becario" lemma="becario" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t10.13" begin="1543" end="1544" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t10.14" begin="1545" end="1552" form="primero" lemma="1" tag="AO0MS00" ctag="AO" pos="adjective" type="ordinal" gen="masculine" num="singular" >
+  </token>
+  <token id="t10.15" begin="1553" end="1562" form="comprueba" lemma="comprueba" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t10.16" begin="1563" end="1566" form="que" lemma="que" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t10.17" begin="1567" end="1571" form="tipo" lemma="tipo" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t10.18" begin="1572" end="1574" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t10.19" begin="1575" end="1584" form="asistente" lemma="asistente" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t10.20" begin="1585" end="1587" form="es" lemma="ser" tag="VSIP3S0" ctag="VSI" pos="verb" type="semiauxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t10.21" begin="1587" end="1588" form=":" lemma=":" tag="Fd" ctag="Fd" pos="punctuation" type="colon" >
+  </token>
+  <token id="t10.22" begin="1589" end="1596" form="ponente" lemma="ponente" tag="AQ0CS00" ctag="AQ" pos="adjective" type="qualificative" gen="common" num="singular" >
+  </token>
+  <token id="t10.23" begin="1596" end="1597" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t10.24" begin="1598" end="1604" form="alumno" lemma="alumno" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t10.25" begin="1604" end="1605" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t10.26" begin="1606" end="1613" form="empresa" lemma="empresa" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t10.27" begin="1613" end="1614" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="11">
+  <token id="t11.1" begin="1615" end="1619" form="Para" lemma="para" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t11.2" begin="1620" end="1629" form="comprobar" lemma="comprobar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t11.3" begin="1630" end="1632" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t11.4" begin="1633" end="1640" form="becario" lemma="becario" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t11.5" begin="1641" end="1644" form="que" lemma="que" tag="PR0CN00" ctag="PR" pos="pronoun" type="relative" gen="common" num="invariable" >
+  </token>
+  <token id="t11.6" begin="1645" end="1647" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t11.7" begin="1648" end="1659" form="solicitante" lemma="solicitante" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t11.8" begin="1660" end="1662" form="es" lemma="ser" tag="VSIP3S0" ctag="VSI" pos="verb" type="semiauxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t11.9" begin="1663" end="1665" form="un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t11.10" begin="1666" end="1672" form="alumno" lemma="alumno" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t11.11" begin="1673" end="1680" form="dispone" lemma="disponer" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t11.12" begin="1681" end="1683" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t11.13" begin="1684" end="1686" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t11.14" begin="1687" end="1698" form="informacion" lemma="informacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t11.15" begin="1699" end="1701" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t11.16" begin="1702" end="1707" form="todos" lemma="todo" tag="DI0MP0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="plural" >
+  </token>
+  <token id="t11.17" begin="1708" end="1711" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t11.18" begin="1712" end="1719" form="alumnos" lemma="alumno" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t11.19" begin="1720" end="1732" form="matriculados" lemma="matricular" tag="VMP00PM" ctag="VMP" pos="verb" type="main" mood="participle" num="plural" gen="masculine" >
+  </token>
+  <token id="t11.20" begin="1733" end="1735" form="en" lemma="en" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t11.21" begin="1736" end="1738" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t11.22" begin="1739" end="1743" form="UCLM" lemma="uclm" tag="NP00000" ctag="NP" pos="noun" type="proper" >
+  </token>
+  <token id="t11.23" begin="1743" end="1744" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t11.24" begin="1745" end="1747" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t11.25" begin="1748" end="1752" form="cual" lemma="cual" tag="PR0CS00" ctag="PR" pos="pronoun" type="relative" gen="common" num="singular" >
+  </token>
+  <token id="t11.26" begin="1753" end="1764" form="proporciona" lemma="proporcionar" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t11.27" begin="1765" end="1770" form="dicha" lemma="decir" tag="VMP00SF" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="feminine" >
+  </token>
+  <token id="t11.28" begin="1771" end="1782" form="informacion" lemma="informacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t11.29" begin="1782" end="1783" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="12">
+  <token id="t12.1" begin="1784" end="1785" form="A" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t12.2" begin="1786" end="1788" form="su" lemma="su" tag="DP3CSN" ctag="DP" pos="determiner" type="possessive" person="3" gen="common" num="singular" possessornum="invariable" >
+  </token>
+  <token id="t12.3" begin="1789" end="1792" form="vez" lemma="vez" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t12.4" begin="1792" end="1793" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t12.5" begin="1794" end="1798" form="para" lemma="para" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t12.6" begin="1799" end="1801" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t12.7" begin="1802" end="1814" form="comprobacion" lemma="comprobacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t12.8" begin="1815" end="1817" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t12.9" begin="1818" end="1821" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t12.10" begin="1822" end="1830" form="ponentes" lemma="ponente" tag="NCCP000" ctag="NC" pos="noun" type="common" gen="common" num="plural" >
+  </token>
+  <token id="t12.11" begin="1830" end="1831" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t12.12" begin="1832" end="1834" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t12.13" begin="1835" end="1842" form="becario" lemma="becario" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t12.14" begin="1843" end="1850" form="dispone" lemma="disponer" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t12.15" begin="1851" end="1853" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t12.16" begin="1854" end="1856" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t12.17" begin="1857" end="1868" form="informacion" lemma="informacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t12.18" begin="1869" end="1879" form="solicitada" lemma="solicitar" tag="VMP00SF" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="feminine" >
+  </token>
+  <token id="t12.19" begin="1880" end="1883" form="por" lemma="por" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t12.20" begin="1884" end="1886" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t12.21" begin="1887" end="1893" form="propio" lemma="propio" tag="AQ0MS00" ctag="AQ" pos="adjective" type="qualificative" gen="masculine" num="singular" >
+  </token>
+  <token id="t12.22" begin="1894" end="1901" form="sistema" lemma="sistema" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t12.23" begin="1902" end="1904" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t12.24" begin="1905" end="1912" form="gestion" lemma="gestion" tag="NCCN000" ctag="NC" pos="noun" type="common" gen="common" num="invariable" >
+  </token>
+  <token id="t12.25" begin="1913" end="1915" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t12.26" begin="1916" end="1925" form="congresos" lemma="congreso" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t12.27" begin="1925" end="1926" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t12.28" begin="1927" end="1942" form="correspondiente" lemma="correspondiente" tag="AQ0CS00" ctag="AQ" pos="adjective" type="qualificative" gen="common" num="singular" >
+  </token>
+  <token id="t12.29" begin="1943" end="1944" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t12.30" begin="1945" end="1950" form="todos" lemma="todo" tag="DI0MP0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="plural" >
+  </token>
+  <token id="t12.31" begin="1951" end="1954" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t12.32" begin="1955" end="1963" form="ponentes" lemma="ponente" tag="NCCP000" ctag="NC" pos="noun" type="common" gen="common" num="plural" >
+  </token>
+  <token id="t12.33" begin="1964" end="1967" form="que" lemma="que" tag="PR0CN00" ctag="PR" pos="pronoun" type="relative" gen="common" num="invariable" >
+  </token>
+  <token id="t12.34" begin="1968" end="1971" form="han" lemma="haber" tag="VAIP3P0" ctag="VAI" pos="verb" type="auxiliary" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t12.35" begin="1972" end="1979" form="enviado" lemma="enviar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t12.36" begin="1980" end="1989" form="articulos" lemma="articulos" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t12.37" begin="1989" end="1990" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="13">
+  <token id="t13.1" begin="1991" end="1993" form="Se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t13.2" begin="1994" end="2003" form="considera" lemma="considerar" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t13.3" begin="2004" end="2007" form="que" lemma="que" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t13.4" begin="2008" end="2010" form="un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t13.5" begin="2011" end="2020" form="asistente" lemma="asistente" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t13.6" begin="2021" end="2025" form="sera" lemma="sera" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t13.7" begin="2026" end="2036" form="catalogado" lemma="catalogar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t13.8" begin="2037" end="2041" form="como" lemma="como" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t13.9" begin="2042" end="2049" form="ponente" lemma="ponente" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t13.10" begin="2049" end="2050" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t13.11" begin="2051" end="2058" form="siempre" lemma="siempre" tag="RG" ctag="RG" pos="adverb" type="general" >
+  </token>
+  <token id="t13.12" begin="2059" end="2062" form="que" lemma="que" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t13.13" begin="2063" end="2065" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t13.14" begin="2066" end="2071" form="trate" lemma="tratar" tag="VMSP3S0" ctag="VMS" pos="verb" type="main" mood="subjunctive" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t13.15" begin="2072" end="2074" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t13.16" begin="2075" end="2080" form="todos" lemma="todo" tag="DI0MP0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="plural" >
+  </token>
+  <token id="t13.17" begin="2081" end="2084" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t13.18" begin="2085" end="2093" form="ponentes" lemma="ponente" tag="NCCP000" ctag="NC" pos="noun" type="common" gen="common" num="plural" >
+  </token>
+  <token id="t13.19" begin="2094" end="2097" form="que" lemma="que" tag="PR0CN00" ctag="PR" pos="pronoun" type="relative" gen="common" num="invariable" >
+  </token>
+  <token id="t13.20" begin="2098" end="2103" form="hayan" lemma="haber" tag="VASP3P0" ctag="VAS" pos="verb" type="auxiliary" mood="subjunctive" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t13.21" begin="2104" end="2111" form="enviado" lemma="enviar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t13.22" begin="2112" end="2121" form="articulos" lemma="articulos" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t13.23" begin="2122" end="2126" form="para" lemma="para" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t13.24" begin="2127" end="2129" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t13.25" begin="2130" end="2141" form="celebracion" lemma="celebracion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t13.26" begin="2142" end="2144" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t13.27" begin="2145" end="2148" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t13.28" begin="2149" end="2158" form="congresos" lemma="congreso" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t13.29" begin="2158" end="2159" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t13.30" begin="2160" end="2178" form="independientemente" lemma="independientemente" tag="RG" ctag="RG" pos="adverb" type="general" >
+  </token>
+  <token id="t13.31" begin="2179" end="2181" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t13.32" begin="2182" end="2185" form="que" lemma="que" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t13.33" begin="2186" end="2191" form="hayan" lemma="haber" tag="VASP3P0" ctag="VAS" pos="verb" type="auxiliary" mood="subjunctive" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t13.34" begin="2192" end="2196" form="sido" lemma="ser" tag="VSP00SM" ctag="VSP" pos="verb" type="semiauxiliary" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t13.35" begin="2197" end="2206" form="aceptados" lemma="aceptar" tag="VMP00PM" ctag="VMP" pos="verb" type="main" mood="participle" num="plural" gen="masculine" >
+  </token>
+  <token id="t13.36" begin="2207" end="2208" form="o" lemma="o" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t13.37" begin="2209" end="2211" form="no" lemma="no" tag="RN" ctag="RN" pos="adverb" type="negative" >
+  </token>
+  <token id="t13.38" begin="2211" end="2212" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="14">
+  <token id="t14.1" begin="2213" end="2214" form="A" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t14.2" begin="2215" end="2227" form="continuacion" lemma="continuacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t14.3" begin="2227" end="2228" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t14.4" begin="2229" end="2230" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t14.5" begin="2230" end="2231" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t14.6" begin="2232" end="2241" form="asistente" lemma="asistente" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t14.7" begin="2242" end="2244" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t14.8" begin="2245" end="2247" form="le" lemma="le" tag="PP3CSD0" ctag="PP" pos="pronoun" type="personal" person="3" gen="common" num="singular" case="dative" >
+  </token>
+  <token id="t14.9" begin="2248" end="2254" form="expide" lemma="expedir" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t14.10" begin="2255" end="2257" form="un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t14.11" begin="2258" end="2264" form="recibo" lemma="recibo" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t14.12" begin="2264" end="2265" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t14.13" begin="2266" end="2271" form="donde" lemma="donde" tag="PR00000" ctag="PR" pos="pronoun" type="relative" >
+  </token>
+  <token id="t14.14" begin="2272" end="2274" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t14.15" begin="2275" end="2277" form="le" lemma="le" tag="PP3CSD0" ctag="PP" pos="pronoun" type="personal" person="3" gen="common" num="singular" case="dative" >
+  </token>
+  <token id="t14.16" begin="2278" end="2284" form="indica" lemma="indicar" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t14.17" begin="2285" end="2287" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t14.18" begin="2288" end="2293" form="cuota" lemma="cuota" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t14.19" begin="2294" end="2295" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t14.20" begin="2296" end="2301" form="pagar" lemma="pagar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t14.21" begin="2301" end="2302" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t14.22" begin="2303" end="2304" form="y" lemma="y" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t14.23" begin="2305" end="2308" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t14.24" begin="2309" end="2314" form="datos" lemma="dato" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t14.25" begin="2315" end="2316" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t14.26" begin="2317" end="2318" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t14.27" begin="2319" end="2324" form="banco" lemma="banco" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t14.28" begin="2325" end="2330" form="donde" lemma="donde" tag="PR00000" ctag="PR" pos="pronoun" type="relative" >
+  </token>
+  <token id="t14.29" begin="2331" end="2335" form="debe" lemma="deber" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t14.30" begin="2336" end="2344" form="ingresar" lemma="ingresar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t14.31" begin="2345" end="2347" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t14.32" begin="2348" end="2354" form="dinero" lemma="dinero" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t14.33" begin="2354" end="2355" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="15">
+  <token id="t15.1" begin="2356" end="2362" form="Cuando" lemma="cuando" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t15.2" begin="2363" end="2365" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t15.3" begin="2366" end="2375" form="asistente" lemma="asistente" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t15.4" begin="2376" end="2381" form="lleva" lemma="llevar" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t15.5" begin="2382" end="2384" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t15.6" begin="2385" end="2391" form="recibo" lemma="recibo" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t15.7" begin="2392" end="2399" form="sellado" lemma="sellar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t15.8" begin="2399" end="2400" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t15.9" begin="2401" end="2403" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t15.10" begin="2404" end="2411" form="becario" lemma="becario" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t15.11" begin="2412" end="2414" form="lo" lemma="lo" tag="PP3MSA0" ctag="PP" pos="pronoun" type="personal" person="3" gen="masculine" num="singular" case="accusative" >
+  </token>
+  <token id="t15.12" begin="2415" end="2423" form="inscribe" lemma="inscribir" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t15.13" begin="2424" end="2428" form="como" lemma="como" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t15.14" begin="2429" end="2438" form="asistente" lemma="asistente" tag="NCCS000" ctag="NC" pos="noun" type="common" gen="common" num="singular" >
+  </token>
+  <token id="t15.15" begin="2439" end="2449" form="definitivo" lemma="definitivo" tag="AQ0MS00" ctag="AQ" pos="adjective" type="qualificative" gen="masculine" num="singular" >
+  </token>
+  <token id="t15.16" begin="2450" end="2451" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t15.17" begin="2451" end="2452" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t15.18" begin="2453" end="2461" form="congreso" lemma="congreso" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t15.19" begin="2461" end="2462" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="16">
+  <token id="t16.1" begin="2463" end="2474" form="IMPRENTA_En" lemma="imprenta_en" tag="NP00000" ctag="NP" pos="noun" type="proper" >
+  </token>
+  <token id="t16.2" begin="2475" end="2478" form="las" lemma="el" tag="DA0FP0" ctag="DA" pos="determiner" type="article" gen="feminine" num="plural" >
+  </token>
+  <token id="t16.3" begin="2479" end="2484" form="actas" lemma="acta" tag="NCFP000" ctag="NC" pos="noun" type="common" gen="feminine" num="plural" >
+  </token>
+  <token id="t16.4" begin="2485" end="2491" form="ademas" lemma="adema" tag="NCFP000" ctag="NC" pos="noun" type="common" gen="feminine" num="plural" >
+  </token>
+  <token id="t16.5" begin="2492" end="2494" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t16.6" begin="2495" end="2502" form="incluir" lemma="incluir" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t16.7" begin="2503" end="2505" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t16.8" begin="2506" end="2517" form="informacion" lemma="informacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t16.9" begin="2518" end="2520" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t16.10" begin="2521" end="2524" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t16.11" begin="2525" end="2533" form="ponentes" lemma="ponente" tag="NCCP000" ctag="NC" pos="noun" type="common" gen="common" num="plural" >
+  </token>
+  <token id="t16.12" begin="2534" end="2537" form="con" lemma="con" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t16.13" begin="2538" end="2541" form="sus" lemma="su" tag="DP3CPN" ctag="DP" pos="determiner" type="possessive" person="3" gen="common" num="plural" possessornum="invariable" >
+  </token>
+  <token id="t16.14" begin="2542" end="2558" form="correspondientes" lemma="correspondiente" tag="AQ0CP00" ctag="AQ" pos="adjective" type="qualificative" gen="common" num="plural" >
+  </token>
+  <token id="t16.15" begin="2559" end="2568" form="articulos" lemma="articulos" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t16.16" begin="2568" end="2569" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t16.17" begin="2570" end="2577" form="tambien" lemma="tambien" tag="VMSP3P0" ctag="VMS" pos="verb" type="main" mood="subjunctive" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t16.18" begin="2578" end="2580" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t16.19" begin="2581" end="2588" form="incluye" lemma="incluir" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t16.20" begin="2589" end="2591" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t16.21" begin="2592" end="2603" form="informacion" lemma="informacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t16.22" begin="2604" end="2606" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t16.23" begin="2607" end="2610" form="las" lemma="el" tag="DA0FP0" ctag="DA" pos="determiner" type="article" gen="feminine" num="plural" >
+  </token>
+  <token id="t16.24" begin="2611" end="2619" form="empresas" lemma="empresa" tag="NCFP000" ctag="NC" pos="noun" type="common" gen="feminine" num="plural" >
+  </token>
+  <token id="t16.25" begin="2620" end="2634" form="patrocinadoras" lemma="patrocinador" tag="AQ0FP00" ctag="AQ" pos="adjective" type="qualificative" gen="feminine" num="plural" >
+  </token>
+  <token id="t16.26" begin="2635" end="2636" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t16.27" begin="2637" end="2638" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t16.28" begin="2639" end="2647" form="congreso" lemma="congreso" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t16.29" begin="2647" end="2648" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="17">
+  <token id="t17.1" begin="2649" end="2651" form="La" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t17.2" begin="2652" end="2659" form="factura" lemma="factura" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t17.3" begin="2660" end="2662" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t17.4" begin="2663" end="2665" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t17.5" begin="2666" end="2674" form="imprenta" lemma="imprenta" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t17.6" begin="2675" end="2677" form="es" lemma="ser" tag="VSIP3S0" ctag="VSI" pos="verb" type="semiauxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t17.7" begin="2678" end="2685" form="enviada" lemma="enviar" tag="VMP00SF" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="feminine" >
+  </token>
+  <token id="t17.8" begin="2686" end="2687" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t17.9" begin="2688" end="2700" form="contabilidad" lemma="contabilidad" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t17.10" begin="2700" end="2701" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="18">
+  <token id="t18.1" begin="2702" end="2703" form="A" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t18.2" begin="2704" end="2706" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t18.3" begin="2707" end="2715" form="imprenta" lemma="imprenta" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t18.4" begin="2716" end="2718" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t18.5" begin="2719" end="2721" form="le" lemma="le" tag="PP3CSD0" ctag="PP" pos="pronoun" type="personal" person="3" gen="common" num="singular" case="dative" >
+  </token>
+  <token id="t18.6" begin="2722" end="2726" form="paga" lemma="pagar" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t18.7" begin="2727" end="2730" form="con" lemma="con" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t18.8" begin="2731" end="2733" form="un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t18.9" begin="2734" end="2740" form="cheque" lemma="cheque" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t18.10" begin="2740" end="2741" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="19">
+  <token id="t19.1" begin="2742" end="2745" form="Los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t19.2" begin="2746" end="2754" form="becarios" lemma="becario" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t19.3" begin="2755" end="2763" form="elaboran" lemma="elaborar" tag="VMIP3P0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t19.4" begin="2764" end="2767" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t19.5" begin="2768" end="2776" form="diplomas" lemma="diploma" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t19.6" begin="2776" end="2777" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="20">
+  <token id="t20.1" begin="2778" end="2780" form="Un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t20.2" begin="2781" end="2788" form="becario" lemma="becario" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t20.3" begin="2789" end="2794" form="puede" lemma="poder" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t20.4" begin="2795" end="2803" form="elaborar" lemma="elaborar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t20.5" begin="2804" end="2810" form="varios" lemma="varios" tag="DI0MP0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="plural" >
+  </token>
+  <token id="t20.6" begin="2811" end="2819" form="diplomas" lemma="diploma" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t20.7" begin="2819" end="2820" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="21">
+  <token id="t21.1" begin="2821" end="2824" form="Los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t21.2" begin="2825" end="2833" form="diplomas" lemma="diploma" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t21.3" begin="2834" end="2840" form="pueden" lemma="poder" tag="VMIP3P0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t21.4" begin="2841" end="2844" form="por" lemma="por" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t21.5" begin="2845" end="2855" form="asistencia" lemma="asistencia" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t21.6" begin="2856" end="2857" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t21.7" begin="2857" end="2858" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t21.8" begin="2859" end="2867" form="congreso" lemma="congreso" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t21.9" begin="2868" end="2869" form="o" lemma="o" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t21.10" begin="2870" end="2873" form="por" lemma="por" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t21.11" begin="2874" end="2884" form="exposicion" lemma="exposicion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t21.12" begin="2885" end="2886" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t21.13" begin="2887" end="2888" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t21.14" begin="2889" end="2897" form="articulo" lemma="articular" tag="VMIP1S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="1" num="singular" >
+  </token>
+  <token id="t21.15" begin="2897" end="2898" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="22">
+  <token id="t22.1" begin="2899" end="2917" form="PATROCINADORES_Los" lemma="patrocinadores_los" tag="NP00000" ctag="NP" pos="noun" type="proper" >
+  </token>
+  <token id="t22.2" begin="2918" end="2928" form="profesores" lemma="profesor" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t22.3" begin="2929" end="2932" form="son" lemma="ser" tag="VSIP3P0" ctag="VSI" pos="verb" type="semiauxiliary" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t22.4" begin="2933" end="2936" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t22.5" begin="2937" end="2947" form="encargados" lemma="encargar" tag="VMP00PM" ctag="VMP" pos="verb" type="main" mood="participle" num="plural" gen="masculine" >
+  </token>
+  <token id="t22.6" begin="2948" end="2950" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t22.7" begin="2951" end="2960" form="solicitar" lemma="solicitar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t22.8" begin="2961" end="2963" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t22.9" begin="2964" end="2969" form="ayuda" lemma="ayuda" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t22.10" begin="2970" end="2971" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t22.11" begin="2972" end="2975" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t22.12" begin="2976" end="2990" form="patrocinadores" lemma="patrocinador" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t22.13" begin="2990" end="2991" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="23">
+  <token id="t23.1" begin="2992" end="2994" form="Un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t23.2" begin="2995" end="3003" form="profesor" lemma="profesor" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t23.3" begin="3004" end="3009" form="puede" lemma="poder" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t23.4" begin="3010" end="3019" form="solicitar" lemma="solicitar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t23.5" begin="3020" end="3025" form="ayuda" lemma="ayuda" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t23.6" begin="3026" end="3027" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t23.7" begin="3028" end="3034" form="varios" lemma="varios" tag="DI0MP0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="plural" >
+  </token>
+  <token id="t23.8" begin="3035" end="3049" form="patrocinadores" lemma="patrocinador" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t23.9" begin="3049" end="3050" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t23.10" begin="3051" end="3059" form="enviando" lemma="enviar" tag="VMG0000" ctag="VMG" pos="verb" type="main" mood="gerund" >
+  </token>
+  <token id="t23.11" begin="3060" end="3063" form="una" lemma="uno" tag="DI0FS0" ctag="DI" pos="determiner" type="indefinite" gen="feminine" num="singular" >
+  </token>
+  <token id="t23.12" begin="3064" end="3069" form="carta" lemma="carta" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t23.13" begin="3070" end="3071" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t23.14" begin="3072" end="3076" form="cada" lemma="cada" tag="DI0CS0" ctag="DI" pos="determiner" type="indefinite" gen="common" num="singular" >
+  </token>
+  <token id="t23.15" begin="3077" end="3080" form="uno" lemma="uno" tag="PI0MS00" ctag="PI" pos="pronoun" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t23.16" begin="3080" end="3081" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t23.17" begin="3082" end="3086" form="pero" lemma="pero" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t23.18" begin="3087" end="3091" form="cada" lemma="cada" tag="DI0CS0" ctag="DI" pos="determiner" type="indefinite" gen="common" num="singular" >
+  </token>
+  <token id="t23.19" begin="3092" end="3097" form="carta" lemma="carta" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t23.20" begin="3098" end="3100" form="es" lemma="ser" tag="VSIP3S0" ctag="VSI" pos="verb" type="semiauxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t23.21" begin="3101" end="3110" form="elaborada" lemma="elaborar" tag="VMP00SF" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="feminine" >
+  </token>
+  <token id="t23.22" begin="3111" end="3114" form="por" lemma="por" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t23.23" begin="3115" end="3117" form="un" lemma="uno" tag="DI0MS0" ctag="DI" pos="determiner" type="indefinite" gen="masculine" num="singular" >
+  </token>
+  <token id="t23.24" begin="3118" end="3123" form="unico" lemma="unico" tag="AQ0MS00" ctag="AQ" pos="adjective" type="qualificative" gen="masculine" num="singular" >
+  </token>
+  <token id="t23.25" begin="3124" end="3132" form="profesor" lemma="profesor" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t23.26" begin="3132" end="3133" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="24">
+  <token id="t24.1" begin="3134" end="3138" form="Para" lemma="para" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t24.2" begin="3139" end="3146" form="obtener" lemma="obtener" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t24.3" begin="3147" end="3149" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t24.4" begin="3150" end="3161" form="informacion" lemma="informacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t24.5" begin="3162" end="3164" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t24.6" begin="3165" end="3179" form="patrocinadores" lemma="patrocinador" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t24.7" begin="3179" end="3180" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t24.8" begin="3181" end="3184" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t24.9" begin="3185" end="3195" form="profesores" lemma="profesor" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t24.10" begin="3196" end="3203" form="cuentan" lemma="contar" tag="VMIP3P0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t24.11" begin="3204" end="3207" form="con" lemma="con" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t24.12" begin="3208" end="3211" form="una" lemma="uno" tag="DI0FS0" ctag="DI" pos="determiner" type="indefinite" gen="feminine" num="singular" >
+  </token>
+  <token id="t24.13" begin="3212" end="3216" form="guia" lemma="guia" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t24.14" begin="3217" end="3219" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t24.15" begin="3220" end="3227" form="paginas" lemma="paginar" tag="VMIP2S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="2" num="singular" >
+  </token>
+  <token id="t24.16" begin="3228" end="3237" form="amarillas" lemma="amarillo" tag="AQ0FP00" ctag="AQ" pos="adjective" type="qualificative" gen="feminine" num="plural" >
+  </token>
+  <token id="t24.17" begin="3237" end="3238" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="25">
+  <token id="t25.1" begin="3239" end="3243" form="Cada" lemma="cada" tag="DI0CS0" ctag="DI" pos="determiner" type="indefinite" gen="common" num="singular" >
+  </token>
+  <token id="t25.2" begin="3244" end="3256" form="patrocinador" lemma="patrocinador" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t25.3" begin="3257" end="3266" form="solamente" lemma="solamente" tag="RG" ctag="RG" pos="adverb" type="general" >
+  </token>
+  <token id="t25.4" begin="3267" end="3273" form="aporta" lemma="aportar" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t25.5" begin="3274" end="3277" form="una" lemma="uno" tag="DI0FS0" ctag="DI" pos="determiner" type="indefinite" gen="feminine" num="singular" >
+  </token>
+  <token id="t25.6" begin="3278" end="3283" form="ayuda" lemma="ayuda" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t25.7" begin="3284" end="3285" form="y" lemma="y" tag="CC" ctag="CC" pos="conjunction" type="coordinating" >
+  </token>
+  <token id="t25.8" begin="3286" end="3290" form="esta" lemma="este" tag="PD0FS00" ctag="PD" pos="pronoun" type="demonstrative" gen="feminine" num="singular" >
+  </token>
+  <token id="t25.9" begin="3291" end="3295" form="debe" lemma="deber" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t25.10" begin="3296" end="3298" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t25.11" begin="3299" end="3302" form="ser" lemma="ser" tag="VSN0000" ctag="VSN" pos="verb" type="semiauxiliary" mood="infinitive" >
+  </token>
+  <token id="t25.12" begin="3303" end="3305" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t25.13" begin="3306" end="3310" form="tipo" lemma="tipo" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t25.14" begin="3311" end="3320" form="economico" lemma="economico" tag="AQ0MS00" ctag="AQ" pos="adjective" type="qualificative" gen="masculine" num="singular" >
+  </token>
+  <token id="t25.15" begin="3320" end="3321" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="26">
+  <token id="t26.1" begin="3322" end="3326" form="Para" lemma="para" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t26.2" begin="3327" end="3334" form="aportar" lemma="aportar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t26.3" begin="3335" end="3338" form="una" lemma="uno" tag="DI0FS0" ctag="DI" pos="determiner" type="indefinite" gen="feminine" num="singular" >
+  </token>
+  <token id="t26.4" begin="3339" end="3344" form="ayuda" lemma="ayuda" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t26.5" begin="3344" end="3345" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t26.6" begin="3346" end="3348" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t26.7" begin="3349" end="3361" form="patrocinador" lemma="patrocinador" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t26.8" begin="3362" end="3366" form="debe" lemma="deber" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t26.9" begin="3367" end="3375" form="ingresar" lemma="ingresar" tag="VMN0000" ctag="VMN" pos="verb" type="main" mood="infinitive" >
+  </token>
+  <token id="t26.10" begin="3376" end="3378" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t26.11" begin="3379" end="3385" form="dinero" lemma="dinero" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t26.12" begin="3386" end="3388" form="en" lemma="en" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t26.13" begin="3389" end="3391" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t26.14" begin="3392" end="3397" form="banco" lemma="banco" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t26.15" begin="3398" end="3403" form="cuyos" lemma="cuyo" tag="PR0MP00" ctag="PR" pos="pronoun" type="relative" gen="masculine" num="plural" >
+  </token>
+  <token id="t26.16" begin="3404" end="3409" form="datos" lemma="dato" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t26.17" begin="3410" end="3416" form="vienen" lemma="venir" tag="VMIP3P0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t26.18" begin="3417" end="3419" form="en" lemma="en" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t26.19" begin="3420" end="3422" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t26.20" begin="3423" end="3428" form="carta" lemma="carta" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t26.21" begin="3429" end="3436" form="enviada" lemma="enviar" tag="VMP00SF" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="feminine" >
+  </token>
+  <token id="t26.22" begin="3437" end="3440" form="por" lemma="por" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t26.23" begin="3441" end="3444" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t26.24" begin="3445" end="3455" form="profesores" lemma="profesor" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t26.25" begin="3455" end="3456" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="27">
+  <token id="t27.1" begin="3457" end="3463" form="Cuando" lemma="cuando" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t27.2" begin="3464" end="3466" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t27.3" begin="3467" end="3473" form="recibe" lemma="recibir" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t27.4" begin="3474" end="3476" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t27.5" begin="3477" end="3489" form="confirmacion" lemma="confirmacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t27.6" begin="3490" end="3491" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t27.7" begin="3492" end="3493" form="el" lemma="el" tag="DA0MS0" ctag="DA" pos="determiner" type="article" gen="masculine" num="singular" >
+  </token>
+  <token id="t27.8" begin="3494" end="3499" form="banco" lemma="banco" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t27.9" begin="3500" end="3502" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t27.10" begin="3503" end="3506" form="que" lemma="que" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t27.11" begin="3507" end="3510" form="una" lemma="uno" tag="DI0FS0" ctag="DI" pos="determiner" type="indefinite" gen="feminine" num="singular" >
+  </token>
+  <token id="t27.12" begin="3511" end="3518" form="empresa" lemma="empresa" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t27.13" begin="3519" end="3521" form="ha" lemma="haber" tag="VAIP3S0" ctag="VAI" pos="verb" type="auxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t27.14" begin="3522" end="3531" form="ingresado" lemma="ingresar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t27.15" begin="3532" end="3535" form="una" lemma="uno" tag="DI0FS0" ctag="DI" pos="determiner" type="indefinite" gen="feminine" num="singular" >
+  </token>
+  <token id="t27.16" begin="3536" end="3541" form="ayuda" lemma="ayuda" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t27.17" begin="3542" end="3553" form="determinada" lemma="determinar" tag="VMP00SF" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="feminine" >
+  </token>
+  <token id="t27.18" begin="3553" end="3554" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t27.19" begin="3555" end="3557" form="se" lemma="se" tag="P00CN00" ctag="P0" pos="pronoun" gen="common" num="invariable" >
+  </token>
+  <token id="t27.20" begin="3558" end="3560" form="la" lemma="lo" tag="PP3FSA0" ctag="PP" pos="pronoun" type="personal" person="3" gen="feminine" num="singular" case="accusative" >
+  </token>
+  <token id="t27.21" begin="3561" end="3569" form="inscribe" lemma="inscribir" tag="VMIP3S0" ctag="VMI" pos="verb" type="main" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t27.22" begin="3570" end="3574" form="como" lemma="como" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t27.23" begin="3575" end="3582" form="empresa" lemma="empresa" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t27.24" begin="3583" end="3596" form="patrocinadora" lemma="patrocinador" tag="AQ0FS00" ctag="AQ" pos="adjective" type="qualificative" gen="feminine" num="singular" >
+  </token>
+  <token id="t27.25" begin="3597" end="3599" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t27.26" begin="3600" end="3603" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t27.27" begin="3604" end="3613" form="congresos" lemma="congreso" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t27.28" begin="3613" end="3614" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>
+<sentence id="28">
+  <token id="t28.1" begin="3615" end="3617" form="La" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t28.2" begin="3618" end="3629" form="informacion" lemma="informacion" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t28.3" begin="3630" end="3632" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t28.4" begin="3633" end="3636" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t28.5" begin="3637" end="3651" form="patrocinadores" lemma="patrocinador" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t28.6" begin="3652" end="3654" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t28.7" begin="3655" end="3658" form="los" lemma="el" tag="DA0MP0" ctag="DA" pos="determiner" type="article" gen="masculine" num="plural" >
+  </token>
+  <token id="t28.8" begin="3659" end="3668" form="congresos" lemma="congreso" tag="NCMP000" ctag="NC" pos="noun" type="common" gen="masculine" num="plural" >
+  </token>
+  <token id="t28.9" begin="3668" end="3669" form="," lemma="," tag="Fc" ctag="Fc" pos="punctuation" type="comma" >
+  </token>
+  <token id="t28.10" begin="3670" end="3673" form="asi" lemma="asi" tag="NCMS000" ctag="NC" pos="noun" type="common" gen="masculine" num="singular" >
+  </token>
+  <token id="t28.11" begin="3674" end="3678" form="como" lemma="como" tag="CS" ctag="CS" pos="conjunction" type="subordinating" >
+  </token>
+  <token id="t28.12" begin="3679" end="3681" form="de" lemma="de" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t28.13" begin="3682" end="3684" form="la" lemma="el" tag="DA0FS0" ctag="DA" pos="determiner" type="article" gen="feminine" num="singular" >
+  </token>
+  <token id="t28.14" begin="3685" end="3690" form="ayuda" lemma="ayuda" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t28.15" begin="3691" end="3694" form="que" lemma="que" tag="PR0CN00" ctag="PR" pos="pronoun" type="relative" gen="common" num="invariable" >
+  </token>
+  <token id="t28.16" begin="3695" end="3698" form="han" lemma="haber" tag="VAIP3P0" ctag="VAI" pos="verb" type="auxiliary" mood="indicative" tense="present" person="3" num="plural" >
+  </token>
+  <token id="t28.17" begin="3699" end="3707" form="aportado" lemma="aportar" tag="VMP00SM" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="masculine" >
+  </token>
+  <token id="t28.18" begin="3708" end="3710" form="es" lemma="ser" tag="VSIP3S0" ctag="VSI" pos="verb" type="semiauxiliary" mood="indicative" tense="present" person="3" num="singular" >
+  </token>
+  <token id="t28.19" begin="3711" end="3718" form="enviada" lemma="enviar" tag="VMP00SF" ctag="VMP" pos="verb" type="main" mood="participle" num="singular" gen="feminine" >
+  </token>
+  <token id="t28.20" begin="3719" end="3720" form="a" lemma="a" tag="SP" ctag="SP" pos="adposition" type="preposition" >
+  </token>
+  <token id="t28.21" begin="3721" end="3733" form="contabilidad" lemma="contabilidad" tag="NCFS000" ctag="NC" pos="noun" type="common" gen="feminine" num="singular" >
+  </token>
+  <token id="t28.22" begin="3733" end="3734" form="." lemma="." tag="Fp" ctag="Fp" pos="punctuation" type="period" >
+  </token>
+</sentence>

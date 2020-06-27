@@ -1,0 +1,21 @@
+PONENTES
+Cada ponente envia un unico articulo para poder participar en el congreso, si finalmente el articulo es aceptado.
+En la seleccion de articulos un profesor puede participar en la evaluacion de varios articulos, y cada articulo debe ser evaluado por tres profesores.
+Cuando se ha realizado la seleccion de los articulos, y por tanto de los ponentes que participaran, se establece la fecha y hora de cada ponencia, asi como el lugar donde se celebrara el congreso. Para poder establecer el lugar de la celebracion de los congresos, se dispone de la informacion de los salones de actos de los edificios, pertenecientes a la Universidad de Castilla La Mancha, la cual ha proporcionado dicha informacion. Se considera, que la informacion que la UCLM da de los salones de actos, es de aquellos que pueden ser reservados para la realizacion de congresos. Una vez seleccionado el lugar, se debe comunicar a la UCLM, junto con la fecha de celebracion de los congresos, para que efectue la reserva correspondiente.
+Acto seguido los profesores se encargan de escribir cartas a todos los ponentes que han enviado articulos. Una carta puede estar elaborada por uno o varios profesores, y un profesor puede participar en la elaboracion de varias cartas.
+ASISTENTES
+Los becarios son los encargados de gestionar la preinscripcion y la inscripcion de los asistentes, cada asistente es gestionado por un becario, el cual a su vez puede gestionar la inscripcion de varios asistentes.
+Cuando un asistente solicita la inscripcion en el congreso, el becario, primero comprueba que tipo de asistente es: ponente, alumno, empresa. Para comprobar el becario que el solicitante es un alumno dispone de la informacion de todos los alumnos matriculados en la UCLM, la cual proporciona dicha informacion. A su vez, para la comprobacion de los ponentes, el becario dispone de la informacion solicitada por el propio sistema de gestion de congresos, correspondiente a todos los ponentes que han enviado articulos. Se considera que un asistente sera catalogado como ponente, siempre que se trate de todos los ponentes que hayan enviado articulos para la celebracion de los congresos, independientemente de que hayan sido aceptados o no. A continuacion, al asistente se le expide un recibo, donde se le indica la cuota a pagar, y los datos del banco donde debe ingresar el dinero.
+Cuando el asistente lleva el recibo sellado, el becario lo inscribe como asistente definitivo al congreso.
+IMPRENTA
+En las actas ademas de incluir la informacion de los ponentes con sus correspondientes articulos, tambien se incluye la informacion de las empresas patrocinadoras del congreso.
+La factura de la imprenta es enviada a contabilidad. A la imprenta se le paga con un cheque.
+Los becarios elaboran los diplomas. Un becario puede elaborar varios diplomas. Los diplomas pueden por asistencia al congreso o por exposicion del articulo.
+PATROCINADORES
+Los profesores son los encargados de solicitar la ayuda a los patrocinadores.
+Un profesor puede solicitar ayuda a varios patrocinadores, enviando una carta a cada uno, pero cada carta es elaborada por un unico profesor.
+Para obtener la informacion de patrocinadores, los profesores cuentan con una guia de paginas amarillas.
+Cada patrocinador solamente aporta una ayuda y esta debe de ser de tipo economico. Para aportar una ayuda, el patrocinador debe ingresar el dinero en el banco cuyos datos vienen en la carta enviada por los profesores.
+Cuando se recibe la confirmacion del banco de que una empresa ha ingresado una ayuda determinada, se la inscribe como empresa patrocinadora de los congresos.
+La informacion de los patrocinadores de los congresos, asi como de la ayuda que han aportado es enviada a contabilidad.
+
